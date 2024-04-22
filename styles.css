@@ -1,6 +1,8 @@
 *{font-family: monospace; background-color:aqua;}
-a {color:blueviolet;font-size:large;}
+a {color:blueviolet;font-size:large;padding: 8px;}
 .title{
     font-weight: bolder;
-    font-size: x-large;
+    font-size: 50px;
+    text-align: center;
 }
+li{margin: 8px;}
