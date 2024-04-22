@@ -1,0 +1,9 @@
+*{background-color: antiquewhite;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+.des{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+#title1{
+    text-align:center;
+}
+ol{
+    padding: 50px;
+}
+.jkl{margin-left: auto; margin-right: auto; width: 50px;}
